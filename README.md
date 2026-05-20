@@ -1,4 +1,4 @@
-*** Promt Code ***
+*** Prompt Code ***
 
 Là một junior software engineering hãy tạo một trang web sử dụng swing kết hợp với jdk 25 tạo một ứng dụng quản lý hàng sản phẩm theo những yêu cầu trong hình và có thêm các yêu cầu cụ thể hơn như sau: 
 1.giao diện ứng dụng phải đẹp, dễ nhìn, các nút bấm phải có màu sắc nổi bật tạo sự tương phản giữa chữ và nền nút
