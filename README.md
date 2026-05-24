@@ -2,7 +2,7 @@
 
 # Dowload
 ```bash
-git clone 
+git clone https://github.com/HUU7911/app_product.git
 ```
 # Chạy dự án
 
