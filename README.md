@@ -1,5 +1,15 @@
 # Ứng Dụng Quản Lý Sản Phẩm Bằng Java Swing (JDK 25)
 
+# Dowload
+```bash
+git clone 
+```
+# Chạy dự án
+
+```bash
+javac Main.java
+java Main
+```
 ## Giới Thiệu
 
 Đây là ứng dụng quản lý sản phẩm được phát triển bằng **Java Swing** chạy trên **JDK 25**.  
